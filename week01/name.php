@@ -8,7 +8,7 @@ echo "<br/>";
 $a = 10;
 $b = 11;
 if($a < $b){
-    echo "I am a rich people.<br/>";
+    echo "I am rich.<br/>";
 }
 
 ?>
